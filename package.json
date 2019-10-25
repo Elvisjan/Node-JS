@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Pure Node Work",
+  "main": "index.js",
+  "dependencies": {
+    "latest": "^0.2.0",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elvisjan/Node-JS.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "I T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elvisjan/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Elvisjan/Node-JS#readme"
+}
